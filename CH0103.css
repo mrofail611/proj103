@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:white ;
+		
+    font-family: 'Open Sans', sans-serif;
+      
+     width: 100%; 
+  
+        }
+
+        main{
+
+            background-color:white ;
+        }
+        .container{
+                width: 60%;
+                margin: 0 auto;
+                background-color: white;
+                
+              
+    
+        }
+        em{
+            color:rgb(143, 44, 31);
+            font-size: 20x;
+        }
+        header{
+
+            width: 115%;
+            background-color:#EFEBCE
+      
+         
+        }
+
+        h1{
+            font-family: 'Lobster', cursive;
+            font-size: 300%;
+            color: rgb(60, 107, 107);
+            text-shadow: .2em  .2em silver;
+           margin-left: 1%;
+        }
+
+        h2{ font-family: 'Lobster', cursive;
+            font-size: 180%;
+            color:darkslategray;
+            margin-left: 2%;
+
+                }
+    
+     
+     
+
+        img{
+            margin-left: 2%;
+            padding: 4px;
+          
+        }
+        a{
+            margin-left: 2%;
+        }
+        .project{
+background-color:#D6CE93;
+width:115%;
+margin-bottom: 3%;
+ }
+
+ h3{font-family: 'Lobster', cursive;
+    font-size: 100;
+    margin-left: 2%;
+
+
+
+ }
+ p{
+     margin-left: 2%;
+     padding: .5%  2%  1%  2%;
+     font-family: sans-serif;
+   
+ }
+ 
+
+ footer{
+    font-size: 15px;
+    background-color:#A3A380;
+    clear: both;
+    margin-top: 2%;
+    padding: .5%  2%  1%  2%;
+
+
+}
+footer ul{
+
+
+}
+footer ul li{
+    list-style-type: none;
+   
+   
+}
+.fa-twitter {
+    background:purple;
+    color: white;
+}
+.fa-facebook {
+    background:purple;
+    color: white;
+   
+}
+footer a{
+    padding-left: 1%;
+    color:rgb(143, 44, 31);
+   
+  
+ 
+  
+}
+        
+
+        
